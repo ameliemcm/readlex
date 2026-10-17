@@ -322545,11 +322545,11 @@
             "var": "RRP"
         }
     ],
-    "ferriers_P0_𐑓𐑧𐑮𐑦𐑼𐑟": [
+    "ferriers_NN2_𐑓𐑧𐑮𐑦𐑼𐑟": [
         {
             "Latn": "ferriers",
             "Shaw": "𐑓𐑧𐑮𐑦𐑼𐑟",
-            "pos": "P0",
+            "pos": "NN2",
             "ipa": "ˈferɪəRz",
             "freq": 0,
             "var": "RRP"
@@ -609417,11 +609417,11 @@
             "var": "RRP"
         }
     ],
-    "ow_INT_𐑬": [
+    "ow_ITJ_𐑬": [
         {
             "Latn": "ow",
             "Shaw": "𐑬",
-            "pos": "INT",
+            "pos": "ITJ",
             "ipa": "aʊ",
             "freq": 0,
             "var": "RRP"
@@ -769873,11 +769873,11 @@
             "var": "RRP"
         }
     ],
-    "scotus_NPO_𐑕𐑒𐑴𐑑𐑩𐑕": [
+    "scotus_NP0_𐑕𐑒𐑴𐑑𐑩𐑕": [
         {
             "Latn": "scotus",
             "Shaw": "𐑕𐑒𐑴𐑑𐑩𐑕",
-            "pos": "NPO",
+            "pos": "NP0",
             "ipa": "ˈskəʊtəs",
             "freq": 0,
             "var": "RRP"
@@ -993175,11 +993175,11 @@
             "var": "RRP"
         }
     ],
-    "woo_INT_𐑢𐑵": [
+    "woo_ITJ_𐑢𐑵": [
         {
             "Latn": "woo",
             "Shaw": "𐑢𐑵",
-            "pos": "INT",
+            "pos": "ITJ",
             "ipa": "wuː",
             "freq": 0,
             "var": "RRP"
